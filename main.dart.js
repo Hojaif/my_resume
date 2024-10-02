@@ -83710,7 +83710,7 @@ A.KR.prototype={
 L(a){var s=null,r=A.fd(20),q=A.a([B.dx,B.iC],t.O)
 return A.M0(!1,s,!0,A.eO(B.N,A.jg(A.a([A.cV("Download CV",s,s,s,A.ah(a).p2.ax.aii(B.k,B.aH,1.2),s,s),B.Sy,B.IQ],t.p),B.W,B.P,B.Q),B.x,s,s,new A.cM(s,s,s,r,B.Lv,new A.j2(B.d9,B.A6,B.bI,q,s,s),B.ai),s,s,s,B.HY,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a48(),s,s,s,s)}}
 A.a48.prototype={
-$0(){A.t0(A.ec("https://drive.google.com/file/d/18HQR-OvCc0fntcivsc410lFv6gZV0I2L/view",0,null))},
+$0(){A.t0(A.ec("https://drive.google.com/drive/home",0,null))},
 $S:0}
 A.MN.prototype={
 L(a){return A.eM(A.a([B.cW,A.DF(new A.acG(this),B.Z,new A.av(0,1,t.Y),t.i),B.SH],t.p),B.W,B.P,B.Q)}}
